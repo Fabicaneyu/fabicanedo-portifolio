@@ -31,28 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "GDGSP na CPBR15",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A Campus Party é o maior festival de tecnologia, empreendedorismo, ciência e disruptividade do mundo! Com objetivo de criar cada vez mais um ambiente imersivo para debater sobre tecnologia, criatividade, inovação e educação, ou seja, a CPBR15 é o lugar certo para reescrever o código fonte do mundo, fui líder e organizei para a comunidade marcar presença lá, contribuindo ainda mais com o desenvolvimento das pessoas em Tecnologia. Levamos temas sobre Carreira, Diversidade e Acessibilidade. Vem conferir!",
+    url: "https://youtube.com/playlist?list=PLX5nnUEiHND3oyKr8W9tBBtOHIJ1Htwgf&si=lbXCblLPEQz84vpy",
   },
   {
-    title: "Web Development for Beginners",
+    title: "TDC2023 | Innovation| Diversidade",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Fui coordenadora da trilha de Diversidade do TDC, com objetivo de apresentar a diversidade como impulsionadora da inovação!",
+    url: "https://youtube.com/playlist?list=PLv3L8f6F-z9L-Rlpcn5GC86rcoFjpE9YX&si=l9hclEYDpqafR30a",
   },
 ];
 

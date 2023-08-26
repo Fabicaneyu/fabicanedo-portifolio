@@ -24,19 +24,23 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "To learn, unlearn, and relearn” Aprender, desaprender e reaprender marcam a minha trajetória pessoal e profissional.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Software QA Engineer",
+  "Analista de Testes e Qualidade de Software",
+  "QA Analyst",
+  "Testes Frontend",
+  "WCAG Student",
   "User experience",
   "Inclusive design",
   "Focus group testing",
   "Mobile user interfaces",
-  "Graphic design",
+  "Web design",
 ];
 
 /**
@@ -45,7 +49,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Enquanto início de carreira, Aprendi e batalhei muito para me formar com honra como Farmacêutica. Eis que me vi começando a trilhar passos na área de tecnologia, mas para isso tive que Desaprender todo o preconceito que me bloqueava, com relação a minha idade e por ser mulher, para enfim conseguir realizar a minha transição de carreira. Agora com toda determinação, força, Reaprendo em uma nova área, mediante minha faculdade de Análise e Desenvolvimento de Sistemas (SPTech) e Ciência da Computação na Unicsul, onde estudo linguagens de programação ligadas ao Front-end (HTML, CSS e Javascript) e ao Back-end (Node.js e introdução a Java) e Banco de Dados (Mysql e SQL Server e MongoDB). Sou organizadora e líder de comunidade GDGSP, os Google Developer Groups (GDG) são a maior comunidade de desenvolvedores do mundo. Há mais de mil GDGs em mais de 140 países. Esse programa promove a interação entre as pessoas desenvolvedoras. Programa apoiado pelo Google e através de eventos, workshops e palestras propagamos conhecimentos. Sou embaixadora do programa Women Techmakers, quando entramos no programa assumimos a missão de trabalhar de forma voluntária junto ao programa para construir um mundo com mais mulheres em tecnologia. Fazemos isso impulsionando a comunidade por meio de eventos como meetups, o IWD, o DevFest... entre outras iniciativas para trazer cada vez mais mulheres para a área. Então não temos um título, e sim uma missão de construir um mundo onde todas as mulheres podem prosperar em tecnologia. Em minhas ações estou motivada a apoiar e impulsionar todas as pessoas nessa área que eu amo que é a tecnologia, contem comigo!";
 
 const About = () => {
   return (
