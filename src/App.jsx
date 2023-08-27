@@ -27,11 +27,11 @@ const siteProps = {
   name: "Fabí Canedo",
   title: "Software QA Engineer, Content Creator, WTM Ambassador, GDGSP Organizer & MSLA Ambassador",
   email: "fabicaneyu@gmail.com",
-  gitHub: "https://github.com/Fabicaneyu",
-  instagram: "https://www.instagram.com/fabi.canedo/",
-  linkedIn: "https://www.linkedin.com/in/fabicanedo/",
+  gitHub: "Fabicaneyu",
+  instagram: "fabi.canedo/",
+  linkedIn: "fabicanedo/",
   medium: "",
-  twitter: "https://twitter.com/Fabicanedo",
+  twitter: "Fabicanedo",
   youTube: "",
 };
 
